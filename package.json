@@ -1,0 +1,23 @@
+{
+  "name": "8colors",
+  "version": "1.0.0",
+  "description": "ANSI Colors for the terminal console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ansi",
+    "colors",
+    "eight",
+    "8colors",
+    "console",
+    "log",
+    "cli",
+    "color",
+    "style",
+    "console.log"
+  ],
+  "author": "John Martin R. Disuanco",
+  "license": "MIT"
+}
