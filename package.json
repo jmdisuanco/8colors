@@ -1,6 +1,6 @@
 {
   "name": "8colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ANSI Colors for the terminal console",
   "main": "index.js",
   "scripts": {
