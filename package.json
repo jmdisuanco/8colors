@@ -18,6 +18,10 @@
     "style",
     "console.log"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdisuanco/8colors.git"
+  },
   "author": "John Martin R. Disuanco",
   "license": "MIT"
 }

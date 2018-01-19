@@ -17,7 +17,7 @@ npm install --save 8colors
 #### Example
 
 ```javascript
-const c = require('./index')
+const c = require('8colors')
 
 var title ='WARNING'
 
