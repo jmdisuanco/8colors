@@ -1,27 +1,37 @@
 {
   "name": "8colors",
-  "version": "1.0.1",
-  "description": "ANSI Colors for the terminal console",
+  "version": "1.0.2",
+  "description": "chainable ansi 8 terminal colors",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdisuanco/8colors.git"
+  },
   "keywords": [
+    "8colors",
+    "terminal",
+    "console",
+    "chainable",
     "ansi",
     "colors",
-    "eight",
-    "8colors",
-    "console",
     "log",
     "cli",
     "color",
     "style",
     "console.log"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jmdisuanco/8colors.git"
-  },
   "author": "John Martin R. Disuanco",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmdisuanco/8colors/issues"
+  },
+  "homepage": "https://github.com/jmdisuanco/8colors#readme",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "types": "index.d.ts"
 }
